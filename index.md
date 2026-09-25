@@ -14,10 +14,10 @@ This is my E-portfolio to showcase my projects and coursework.
 1. ** E-Portfolio - Github portfolio **
 
 ## Skills 
-- **Problem Solver**
-- **Organized**
-- **Strong Communication**
-- **Time Managment**
+- *Problem Solver*
+- *Organized*
+- *Strong Communication*
+- *Time Managment*
 
 
 
