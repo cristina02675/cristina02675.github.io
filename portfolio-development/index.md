@@ -6,7 +6,7 @@ This subpage will be describing the process that I followed to create my GitHub 
 
 ## Step 1: Creating a GitHub Account 
 
-The first step was to create my GitHub account and become familiar with the GitHub platform. Maneuverings through the different features files, commits and repositories and becoming familiar with the functions. 
+The first step was to create my GitHub account and become familiar with the GitHub platform. Maneuvering through the different features, files, commits and repositories and becoming familiar with the functions. 
 
 <img width="563" height="542" alt="Screenshot 2026-10-30 080554" src="https://github.com/user-attachments/assets/ffd1b84d-67e7-45d9-9429-f5b6c05c7945" />
 
@@ -14,12 +14,12 @@ The first step was to create my GitHub account and become familiar with the GitH
 
 ## Step 2: Creating My Repository 
 
-I created a repository named cristina02675.github.io which now is the source for my GitHub website. Here you can browse through the series of projects I will be completing. GitHub will use this repository to store all my website files and then publish them. I was then able to go within my repository and begin to organize all my files. 
+I created a repository named cristina02675.github.io which now is the source for my GitHub website. Here, you can browse through the series of projects I will be completing. GitHub will then use this repository to store all my website files and then publish them. I was then able to go within my repository and begin to organize all my files to my preferences. 
 
 
 ## Step 3: Installing the Minimal Theme 
 
-Installing a theme was my next step. The theme would give a more cohesive look to my webpage. I downloaded and used the Minimal theme that is provided through GitHub Pages. This theme provides a clean and professional look to site. 
+Installing a theme was my next step. The theme would give my webpage a more cohesive look. I downloaded and used the Minimal theme that is provided through GitHub Pages. This theme provides a clean and professional look to site. 
 
 <img width="889" height="535" alt="Screenshot 2026-10-30 080712" src="https://github.com/user-attachments/assets/2d35ee73-ec0c-4e60-bf88-13413638c84b" />
 
@@ -44,4 +44,4 @@ Some of those changes included:
 
 ## Conclusion 
 
-Throughout this project I've learned how GitHub Pages works, how to do Markdown files, and how to customize a website using a GitHub themes. 
+Throughout this project I've learned how GitHub Pages works, how to do Markdown files, and how to customize a website using a GitHub theme and will continue to learn more features as I move along. 
