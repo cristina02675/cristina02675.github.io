@@ -8,7 +8,8 @@ This subpage will be describing the process that I followed to create my GitHub 
 
 The first step was to create my GitHub account and become familiar with the GitHub platform. Maneuverings through the different features files, commits and repositories and becoming familiar with the functions. 
 
-<img width="500" height="614" alt="Screenshot 2026-10-29 220509" src="https://github.com/user-attachments/assets/4e1a6541-fd98-4e08-929d-508e5c64a196" />
+<img width="563" height="542" alt="Screenshot 2026-10-30 080554" src="https://github.com/user-attachments/assets/ffd1b84d-67e7-45d9-9429-f5b6c05c7945" />
+
 
 
 ## Step 2: Creating My Repository 
@@ -20,7 +21,7 @@ I created a repository named cristina02675.github.io which now is the source for
 
 Installing a theme was my next step. The theme would give a more cohesive look to my webpage. I downloaded and used the Minimal theme that is provided through GitHub Pages. This theme provides a clean and professional look to site. 
 
-<img width="500" height="642" alt="Screenshot 2026-10-29 213615" src="https://github.com/user-attachments/assets/07848e8d-ce8e-4d86-b2f5-b4f25b8ae0e5" />
+<img width="889" height="535" alt="Screenshot 2026-10-30 080712" src="https://github.com/user-attachments/assets/2d35ee73-ec0c-4e60-bf88-13413638c84b" />
 
 
 ## Step 4: Customizing My Portfolio 
@@ -33,9 +34,11 @@ Some of those changes included:
 - Adding a summary section
 - Creating a skills section
 
-<img width="500" height="623" alt="Screenshot 2026-10-29 220051" src="https://github.com/user-attachments/assets/10045969-b01b-4d71-9b6b-fb23b70725db" />
+<img width="647" height="512" alt="Screenshot 2026-10-30 080817" src="https://github.com/user-attachments/assets/f4da451c-8582-4e6f-b5f6-05d89e3bd2d5" />
 
-<img width="500" height="649" alt="Screenshot 2026-10-29 220240" src="https://github.com/user-attachments/assets/f852eea0-d3a2-48a4-bdd0-8df3f1355384" />
+
+<img width="571" height="488" alt="Screenshot 2026-10-30 080933" src="https://github.com/user-attachments/assets/624ad554-89a0-4a70-bafb-050917a9debd" />
+
 
 
 
