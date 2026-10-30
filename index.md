@@ -29,7 +29,3 @@ My professional experience has primarily focused on community engagement and org
 - Microsoft Excel
 - GitHub Pages
 - Data Visualization Fundamentals
-
-
-
-
