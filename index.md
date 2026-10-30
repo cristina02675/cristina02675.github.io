@@ -23,16 +23,16 @@ My professional experience has primarily focused on community engagement and org
 - *Organized*
 - *Strong Communication*
 - *Time Managment*
-- Team Collaboration
--*Public Relations*
+- *Team Collaboration*
+- *Public Relations*
   
--*Research and Analysis*
+- *Research and Analysis*
 
--*Microsoft Excel*
+- *Microsoft Excel*
 
--*GitHub Pages*
+- *GitHub Pages*
 
--*Data Visualization Fundamentals*
+- *Data Visualization Fundamentals*
 
 
 
