@@ -19,19 +19,14 @@ My professional experience has primarily focused on community engagement and org
 
 
 ## Skills 
-- *Problem Solver*
-- *Organized*
+- *Problem Solving*
+- *Organization and Time Management*
 - *Strong Communication*
-- *Time Managment*
 - *Team Collaboration*
 - *Public Relations*
-  
 - *Research and Analysis*
-
 - *Microsoft Excel*
-
 - *GitHub Pages*
-
 - *Data Visualization Fundamentals*
 
 
